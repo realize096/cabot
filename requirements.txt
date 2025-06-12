@@ -9,7 +9,7 @@ celery==4.2.1
 coreapi==2.3.0
 coreschema==0.0.4
 dj-database-url==0.4.2
-Django==1.11.29
+Django==4.2.22
 django-appconf==1.0.2
 django-auth-ldap==1.2.16
 django-autocomplete-light==3.2.10
@@ -51,7 +51,7 @@ python-openid==2.2.5
 pytz==2017.2
 rcssmin==1.0.6
 redis==2.10.5
-requests==2.13.0
+requests==2.32.4
 requests-oauthlib==1.2.0
 rjsmin==1.0.12
 s3transfer==0.1.13
